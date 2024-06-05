@@ -12,7 +12,7 @@
 
  P.S. Dallae makes some of my ponies! Thank you btw for making them :>
 
-   <a href="https://rentry.co/wambi"> RENTRY </a> || <a href="https://wambi.123guestbook.com/"> Guestbook </a> || <a href="https://retrospring.net/@Wambi"> Retrospring </a> 
+   <a href="https://rentry.co/wambi"> RENTRY </a> || <a href="https://wambi.123guestbook.com/"> GUESTBOOK </a> || <a href="https://retrospring.net/@Wambi"> RETROSPRING </a> 
 </pre>
 <br></br>
 
