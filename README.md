@@ -17,6 +17,7 @@
 <br></br>
 
 Graphics by: hyp3rst4r & essthereal-archived
+<img src="banner.png">
 <br></br>
 
 [![HitCount](https://hits.dwyl.com/wambibi/wambibi.svg?style=flat-square)](http://hits.dwyl.com/wambibi/wambibi)
