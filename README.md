@@ -11,7 +11,8 @@
  👾 Beginner Coder! Mostly HTML and Python 👾
 
  P.S. Dallae makes some of my ponies! Thank you btw for making them :>
-  
+
+   <a href="https://rentry.co/wambi"> RENTRY </a> || <a href="https://wambi.123guestbook.com/"> Guestbook </a> || <a href="https://retrospring.net/@Wambi"> Retrospring </a> 
 </pre>
 <br></br>
 
