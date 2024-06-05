@@ -2,17 +2,18 @@
 <img src="gojo.gif">
 <img align="right" src="https://64.media.tumblr.com/89e1608a4d32f6f7e41cc95dd9c516dc/ff8e63ac631ad598-b7/s250x400/a78ee6350d6907d1fc34dab9adbb4eefcfdf58ac.gifv">
 <pre>
-
+<div align="center">
  Hai! Feel free to int or sit with me! 😁
-
- Likes ✅: Anime, Games, and Drawing
- Dislikes ❌: Rude and Toxic People
+<br></br>
+ <b>Likes</b> ✅: Anime, Games, and Drawing
+ <b>Dislikes</b> ❌: Rude and Toxic People
 
  👾 Beginner Coder! Mostly HTML and Python 👾
 
  P.S. Dallae makes some of my ponies! Thank you btw for making them :>
 
-   <a href="https://rentry.co/wambi"> RENTRY </a> || <a href="https://wambi.123guestbook.com/"> GUESTBOOK </a> || <a href="https://retrospring.net/@Wambi"> RETROSPRING </a> 
+   <a href="https://rentry.co/wambi"> <b>RENTRY</b> </a> || <a href="https://wambi.123guestbook.com/"> <b>GUESTBOOK</b> </a> || <a href="https://retrospring.net/@Wambi"> <b>RETROSPRING</b> </a> 
+  </div>
 </pre>
 <br></br>
 
