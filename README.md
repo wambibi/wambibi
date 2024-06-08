@@ -10,7 +10,7 @@
 
  👾 Beginner Coder! Mostly HTML and Python 👾
 
- P.S. Dallae makes some of my ponies! Thank you btw for making them :>
+ P.S. Dallae made my megumi and zhongli! Thank you btw for making them :>
 
    <a href="https://rentry.co/wambi"> <b>RENTRY</b> </a> || <a href="https://wambi.123guestbook.com/"> <b>GUESTBOOK</b> </a> || <a href="https://retrospring.net/@Wambi"> <b>RETROSPRING</b> </a> 
   </div>
